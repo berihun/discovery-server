@@ -1,2 +1,1 @@
-# discovery-server
-Microservice example
+# discovery-server      Microservice example
